@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/samichehade1-star/media-converter/releases/latest/download/MediaConverter_Setup.zip">
+  <a href="https://github.com/samichehade1-star/media-converter/releases/latest/download/MediaConverter_Setup.exe">
     <img src="https://img.shields.io/badge/Download%20for%20Windows-6366f1?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows" height="48">
   </a>
 </p>
@@ -23,10 +23,10 @@
 ## Install
 
 1. Click **Download for Windows** above.
-2. Unzip `MediaConverter_Setup.zip` anywhere (for example your Desktop).
-3. Open the folder and run **Media Converter.exe**. Keep `ffmpeg.exe` in the same folder.
+2. Run **MediaConverter_Setup.exe** - it installs in a few seconds (no admin needed) and adds Start menu and desktop shortcuts.
+3. Open **Media Converter**.
 
-Nothing else to install - everything is included. If Windows SmartScreen says "unrecognized publisher", click **More info &rarr; Run anyway** (the app isn't code-signed).
+Everything is included - nothing else to install. Remove it any time from Windows Settings &rarr; Apps. If Windows SmartScreen says "unrecognized publisher", click **More info &rarr; Run anyway** (the app isn't code-signed).
 
 ## What it does
 
